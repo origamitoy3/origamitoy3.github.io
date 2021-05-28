@@ -44,6 +44,7 @@ h1{
 h2{
 	font-size: 30px;
 	width: 55%;
+	color: red;
 }
 a{
 	font-size: 40px;
@@ -51,34 +52,34 @@ a{
 }
 
 .photo1{
-	background-image: url(../img/anidiot.jpg);
+	background-image: url(../img/boy-img1.png);
 }
 .photo2{
-	background-image: url(../img/anidiot2.jpg);
+	background-image: url(../img/boy-img2.jpg);
 }
 .photo3{
-	background-image: url(../img/anidiot3.jpg);
+	background-image: url(../img/boy-img3.jpg);
 }
 .photo4{
-	background-image: url(../img/anidiot4.jpg);
+	background-image: url(../img/boy-img4.jpg);
 }
 .photo5{
-	background-image: url(../img/anidiot5.jpg);
+	background-image: url(../img/girl-img1.jpg);
 }
 .photo6{
-	background-image: url(../img/anidiot6.jpg);
+	background-image: url(../img/girl-img2.jpg);
 }
 .photo7{
-	background-image: url(../img/anidiot7.jpg);
+	background-image: url(../img/girl-img3.jpg);
 }
 .photo8{
-	background-image: url(../img/anidiot8.jpg);
+	background-image: url(../img/girl-img4.jpg);
 }
 .photo9{
-	background-image: url(../img/manidiot9.jpg);
+	background-image: url(../img/men-img1.jpg);
 }
 .photo10{
-	background-image: url(../img/anidiot10.jpg);
+	background-image: url(../img/men-img2.jpg);
 }
 .photo11{
 	background-image: url(../img/men-img3.jpg);
@@ -87,14 +88,14 @@ a{
 	background-image: url(../img/men-img4.jpg);
 }
 .photo13{
-	background-image: url(../img/anidiot.jpg);
+	background-image: url(../img/women-img1.jpg);
 }
 .photo14{
-	background-image: url(../img/anidiot2.jpg);
+	background-image: url(../img/women-img2.jpg);
 }
 .photo15{
-	background-image: url(../img/anidiot3.jpg);
+	background-image: url(../img/women-img3.jpg);
 }
 .photo16{
-	background-image: url(../img/anidiot4.jpg);
+	background-image: url(../img/women-img4.jpg);
 }
